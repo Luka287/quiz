@@ -1,0 +1,19 @@
+{
+  "name": "quiz-liontech",
+  "version": "0.0.1",
+  "description": "Quiz game made by LionTech team for NASA Space App Challange",
+  "main": "main/main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luka287/quiz.git"
+  },
+  "author": "LionTech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luka287/quiz/issues"
+  },
+  "homepage": "https://github.com/Luka287/quiz#readme"
+}
